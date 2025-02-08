@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 4. Run the bot.
 ```python
-python bot.py
+python main.py
 ```
 
 ## Usage
